@@ -15,7 +15,9 @@ If you would like to contribute to Music Player, we welcome bug reports and feat
 3. Before submitting a pull request, ensure that the code builds and all tests pass.
 
 # Credits
-Music Player was developed by Kunal Chawla
+Music Player was developed by Kunal Chawla. 
+
+# TO FIND THE SOURCE CODE KINDLY CHECK THE MASTER BRANCH
 
 # Video and Images
 ![musicplayesss](https://user-images.githubusercontent.com/73349039/209991787-7e2e97a1-00ff-41ed-998e-32502ab4b52d.jpg)
